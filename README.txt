@@ -1,0 +1,1 @@
+This was a simple Permutation generation library I made in Java dated 2011. Using the test program included, it generated all of the strings in the file "generated.txt".
